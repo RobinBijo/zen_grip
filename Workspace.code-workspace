@@ -3,6 +3,10 @@
 		{
 			"name": "Esp32_test",
 			"path": "Esp32_test"
+		},
+		{
+			"name": "ZGRC_Trials",
+			"path": "ZGRC_Trials"
 		}
 	]
 }
