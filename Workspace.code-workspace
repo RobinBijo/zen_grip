@@ -3,6 +3,10 @@
 		{
 			"name": "Esp32_test",
 			"path": "Esp32_test"
+		},
+		{
+			"name": "ReceiverMACAddress",
+			"path": "ReceiverMACAddress"
 		}
 	]
 }
